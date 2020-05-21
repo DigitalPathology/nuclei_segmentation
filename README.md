@@ -19,6 +19,8 @@ tables -> 3.6.1
 
 scipy -> 1.4.0
 
+livelossplot -> 0.5.0
+
 #### How To Run
 
 1- Firstly you should run createPytable.py with the correct directory names to create hdf5 file types
