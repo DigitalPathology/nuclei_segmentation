@@ -3,7 +3,7 @@
 This project is conducted for segmenting nuclei in H&E images. 
 
 
-#### REQUIREMENTS
+#### Requirements
 
 python -> 3.7
 
